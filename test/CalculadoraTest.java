@@ -82,7 +82,7 @@ public class CalculadoraTest {
         calc.optima();
         
     }
-    
+    //modificacion afterclass
     @AfterClass
     public static void Afterclass(){
         System.out.println("Afterclass()");
